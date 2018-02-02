@@ -10,7 +10,7 @@ namespace NunitTeste2
     [TestClass]
     public class UnitTest1
     {
-
+        //asdfsdfsd
         readonly IWebDriver driver = new ChromeDriver();
         readonly string caminho = @"C:\Users\dsegatto\Desktop\Relevante\teste.txt";
 
